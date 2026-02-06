@@ -1,8 +1,7 @@
-# doppel_website
-Doppel Website
+Doppel Website dupe (redacted to avoyd copyright infringement), React+Tailwind and Typescript
 
 ## Setup
 npm install
 
 ## Run
-npm run dev rola
+npm run dev
