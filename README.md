@@ -1,5 +1,4 @@
-Doppel Website dupe (redacted to avoyd copyright infringement), React+Tailwind and Typescript
-
+Doppel Website dupe (redacted to avoyd copyright infringement)
 ## Setup
 npm install
 
